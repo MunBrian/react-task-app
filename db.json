@@ -1,0 +1,16 @@
+{
+  "tasks": [
+    {
+      "text": "Fold and Iron clothes",
+      "day": "24th June 2022",
+      "reminder": true,
+      "id": 2
+    },
+    {
+      "text": "Go to gym",
+      "day": "23rd June 2022 11:00AM",
+      "reminder": true,
+      "id": 3
+    }
+  ]
+}
