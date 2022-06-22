@@ -1,1 +1,1 @@
-A task tracker build with React js.\
+A task tracker build with React js.
